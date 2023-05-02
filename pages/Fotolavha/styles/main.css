@@ -327,14 +327,18 @@
 @media (max-width: 840px) {
   .stiker__content-image {
     left: 780px;
-    width: 30px;
   }
 }
 
 @media (max-width: 780px) {
   .stiker__content-image {
+    left: 750px;
+  }
+}
+
+@media (max-width: 750px) {
+  .stiker__content-image {
     left: 730px;
-    width: 30px;
   }
 }
 
@@ -664,6 +668,12 @@
   .main__content {
     margin-left: 10px;
     min-height: 85vh;
+  }
+}
+
+@media (max-width: 310px) {
+  .stiker__content-image {
+    left: 300px;
   }
 }
 

@@ -520,3 +520,9 @@
     left: 310px;
   }
 }
+
+@media (max-width: 310px) {
+  .stiker__content-image {
+    left: 300px;
+  }
+}

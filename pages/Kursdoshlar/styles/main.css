@@ -306,11 +306,11 @@
   
   @media (max-width: 750px) {
     .stiker__content-image {
-      left: 710px;
+      left: 730px;
     }
   }
   
-  @media (max-width: 740px) {
+  @media (max-width: 730px) {
     .stiker__content-image {
       left: 710px;
     }
@@ -512,5 +512,11 @@
   @media (max-width: 330px) {
     .stiker__content-image {
       left: 310px;
+    }
+  }
+
+  @media (max-width: 310px) {
+    .stiker__content-image {
+      left: 300px;
     }
   }
