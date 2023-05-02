@@ -665,6 +665,10 @@
   .main {
     margin-top: 10px;
   }
+
+  .bar__content-image {
+    bottom: 100px;
+  }
 }
 
 @media (max-width: 440px) {
@@ -721,9 +725,10 @@
    .bar {
     min-height: 20vh;
   }
-
+ 
   .bar__content-image {
     left: 140px;
+    bottom: 150px;
   }
 
   .footer__content-tgr,
