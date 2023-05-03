@@ -361,6 +361,7 @@
     .stiker__content-image {
       left: 650px;
     }
+
   }
 
   @media (max-width: 650px) {
@@ -523,6 +524,6 @@
 
 @media (max-width: 310px) {
   .stiker__content-image {
-    left: 300px;
+    left: 290px;
   }
 }
