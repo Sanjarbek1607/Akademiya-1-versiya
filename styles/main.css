@@ -761,6 +761,10 @@
 
 @media (max-width: 310px) {
   .stiker__content-image {
-    left: 290px;
+    left: 270px;
+  }
+
+  .bar__content-image {
+    bottom: 200px;
   }
 }
