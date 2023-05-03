@@ -679,7 +679,7 @@
 
 @media (max-width: 440px) {
   .stiker__content-image {
-    left: 280px;
+    left: 300px;
     width: 25px;
   }
 
@@ -692,15 +692,16 @@
   }
 
   .main__content-title {
-    font-size: 12px;
+    font-size: 15px;
   }
 
   .main__content-text {
-    font-size: 11px;
+    font-size: 14px;
   }
 
   .main__content-link {
-    font-size: 12px;
+    font-size: 15px;
+    border-radius: 3px 6px;
   }
   
   .bar__content-image {
@@ -712,21 +713,6 @@
   .stiker__content-image {
     left: 380px;
   }
-
-  /* .bar__content-image {
-    left: 110px;
-  }
-
-  .main__content-title {
-    font-size: 8px;
-    margin-bottom: 4px;
-  }
-
-  .main__content-text {
-    font-size: 7px;
-    width: 90%;
-    margin-bottom: 4px;
-  } */
 }
 
 @media (max-width: 380px) {
