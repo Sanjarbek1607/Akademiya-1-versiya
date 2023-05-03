@@ -679,7 +679,32 @@
 
 @media (max-width: 440px) {
   .stiker__content-image {
-    left: 410px;
+    left: 280px;
+    width: 25px;
+  }
+
+  .bar__content-title {
+    font-size: 10px;
+  }
+
+  .bar__content-text {
+    font-size: 8px;
+  }
+
+  .main__content-title {
+    font-size: 12px;
+  }
+
+  .main__content-text {
+    font-size: 11px;
+  }
+
+  .main__content-link {
+    font-size: 12px;
+  }
+  
+  .bar__content-image {
+    bottom: 300px;
   }
 }
 
@@ -688,7 +713,7 @@
     left: 380px;
   }
 
-  .bar__content-image {
+  /* .bar__content-image {
     left: 110px;
   }
 
@@ -701,7 +726,7 @@
     font-size: 7px;
     width: 90%;
     margin-bottom: 4px;
-  }
+  } */
 }
 
 @media (max-width: 380px) {
