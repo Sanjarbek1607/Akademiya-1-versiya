@@ -575,6 +575,12 @@
     bottom: 30px;
     left: 380px;
   }
+  .header__content-item {
+    gap: 5px;
+  }
+  .header__content-link {
+    font-size: 6px;
+  }
 }
 
 @media (max-width: 380px) {
@@ -604,7 +610,7 @@
   }
 
   .header__content-list {
-    gap: 4px;
+    gap: 2px;
   }
 
   .header__content-link {
